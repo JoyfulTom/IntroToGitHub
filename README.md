@@ -7,8 +7,17 @@ Tommy's GitHub Project where I go through steps on my journey to better understa
 ## Description
 This is for going through all of the Weekly GitHub assignments.
 
+-For instance all of my assignments.
+
+-All of the extra info added week by week.
+
+-All of the updates.
+
+![Alt text](https://neurosciencenews.com/files/2020/02/brain-cancer-computer-platform-neurosciecnnews-public.jpg)
+
+
 ## Installation
-Step-by-step instructions on how to install and set up your project. Example:
+Instructions on how to install and set up your project. Example:
 ```bash
 git clone https://github.com/JoyfulTom/IntroToGitHub.git
 cd IntroToGitHub
