@@ -10,6 +10,6 @@ This is for going through all of the Weekly GitHub assignments.
 ## Installation
 Step-by-step instructions on how to install and set up your project. Example:
 ```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/JoyfulTom/IntroToGitHub.git
+cd IntroToGitHub
 
